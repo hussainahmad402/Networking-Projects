@@ -29,6 +29,10 @@ Before you start, make sure you have the following installed:
    
 ---
 
+## Project List
+
+1. [Small-Company-Network](https://github.com/hussainahmad402/Networking-Projects/tree/main/Small-Company-Network)
+
 ## Usage
 
    1. Open a project file in Cisco Packet Tracer.
