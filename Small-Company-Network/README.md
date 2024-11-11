@@ -27,7 +27,7 @@ Assume the ISP gave out a base network of 192.168.1.0.
 
 ## Network Diagram
 
-[Here is the diagram of the network](https://github.com/hussainahmad402/Networking-Projects/blob/main/Pictures/Small-Company-Network.PNG)
+[](https://github.com/hussainahmad402/Networking-Projects/blob/main/Pictures/Small-Company-Network.PNG)
 
 ---
 
