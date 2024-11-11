@@ -29,7 +29,7 @@ Before you start, make sure you have the following installed:
    
 ---
 
-##Usage
+## Usage
 
    1. Open a project file in Cisco Packet Tracer.
    2. Follow the in-file labels and comments to understand the configuration setup.
