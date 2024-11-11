@@ -5,14 +5,14 @@ This network design is intended for a small company divided into three departmen
 ---
 
 ## Table of Contents
-1. [Scenario/Question](#Scenario/Question)
+1. [Question Scenario](#Question-Scenario)
 2. [Network Diagram](#Network-Diagram)
 3. [Configuration Details](#Configuration-Details)
 4. [Conclusion](#Conclusion)
 
 ---
 
-## Scenario/Question
+## Question Scenario
 
 Being a small network, the company has the following requirements during implementation;
 1. One router and one switch to be used (all CISCO products).
