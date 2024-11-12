@@ -33,7 +33,7 @@ Assume the ISP gave out a base network of 192.168.1.0.
 
 ## Configuration Details
 1. Switch
-'''bash
+```bash
 Enable
 Configuration terminal
 Vlan 10
@@ -54,9 +54,9 @@ Switchport access vlan 30
 Int fa0/24
 Switchport mode trunk
 Do wr
-
-2. Router
-'''bash
+```
+3. Router
+```bash
 Enable 
 Configuration secret
 Int gig0/0/0
@@ -87,7 +87,7 @@ Network 192.168.1.128 255.255.255.192
 Default-router 192.168.1.129
 Exit
 Do wr
-
+```
 
 ---
 
