@@ -32,7 +32,7 @@ Assume the ISP gave out a base network of 192.168.1.0.
 ---
 
 ## Configuration Details
-1. Switch
+### 1. Switch
 ```bash
 Enable
 Configuration terminal
@@ -55,7 +55,7 @@ Int fa0/24
 Switchport mode trunk
 Do wr
 ```
-3. Router
+## 2. Router
 ```bash
 Enable 
 Configuration secret
@@ -92,5 +92,7 @@ Do wr
 ---
 
 ## Conclusion
+
+This network design provides a secure, efficient setup for a small company by using VLANs to segment departments (Admin/IT, Finance/HR, Customer Service/Reception) on a single Cisco router and switch. With automatic IP allocation and wireless access, the network ensures seamless inter-departmental communication and resource sharing within the 192.168.1.0 base network, meeting current needs and allowing for future scalability.
 
 
