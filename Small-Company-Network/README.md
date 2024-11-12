@@ -32,6 +32,61 @@ Assume the ISP gave out a base network of 192.168.1.0.
 ---
 
 ## Configuration Details
+1. Switch
+'''bash
+Enable
+Configuration terminal
+Vlan 10
+Name Admin
+Int range fa0/1-5
+Switchport mode access
+Switchport access vlan 10
+Vlan 20
+Name Finance
+Int range fa0/6-10
+Switchport mode access
+Switchport access vlan 20
+Vlan 30
+Name Reception
+Int range fa0/11-15
+Switchport mode access
+Switchport access vlan 30
+Int fa0/24
+Switchport mode trunk
+Do wr
+
+2. Router
+'''bash
+Enable 
+Configuration secret
+Int gig0/0/0
+No shutdown
+Exit
+Int gig0/0/0.10
+Encapsulation dot1Q 10
+Ip address 192.168.1.1 255.255.255.192
+Exit
+Int gig0/0/0.20
+Encapsulation dot1Q 20
+Ip address 192.168.1.65 255.255.255.192
+Exit
+Int gig0/0/0.20
+Ip address 192.168.1.129 255.255.255.192
+Exit
+Service dhcp
+Ip dhcp pool Admin-pool
+Network 192.168.1.0 255.255.255.192
+Default-router 192.168.1.1
+Exit
+Ip dhcp pool Fianace-pool
+Network 192.168.1.64 255.255.255.192
+Default-router 192.168.1.65
+Exit
+Ip dhcp pool Reception-pool
+Network 192.168.1.128 255.255.255.192
+Default-router 192.168.1.129
+Exit
+Do wr
 
 
 ---
