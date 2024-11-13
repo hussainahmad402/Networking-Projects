@@ -42,6 +42,7 @@ are part of the considerations during the design and implementation.
   1. Admin- VLAN 20, Network of 192.168.2.0/24
   2. IT-VLAN 10, Network of 192.168.1.0/24
 
+
 8. Use OSPF as the routing protocol to advertise routes.
 9. All devices in the network are expected to obtain IP address dynamically with them
 respective router configured as the DHCP server.
