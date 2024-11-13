@@ -29,18 +29,18 @@ are part of the considerations during the design and implementation.
 7. Each department is expected to be in different VLAN with the following details
    
 #### 1st Floor,
-  •	Reception- VLAN 80, Network of 192.168.8.0/24
-  •	Store- VLAN 70, Network of 192.168.7.0/24
-  •	Logistics- VLAN 60, Network of 192.168.6.0/24
+  1. Reception- VLAN 80, Network of 192.168.8.0/24
+  2. Store- VLAN 70, Network of 192.168.7.0/24
+  3. Logistics- VLAN 60, Network of 192.168.6.0/24
   
 #### 2nd Floor;
-  •	Finance- VLAN 50, Network of 192.168.5.0/24
-  •	HR-VLAN 40, Network of 192.168.4.0/24
-  •	Sales- VLAN 30, Network of 192.168.3.0/24
+  1. Finance- VLAN 50, Network of 192.168.5.0/24
+  2. HR-VLAN 40, Network of 192.168.4.0/24
+  3. Sales- VLAN 30, Network of 192.168.3.0/24
   
 #### 3rd Floor,
-  •	Admin- VLAN 20, Network of 192.168.2.0/24
-  •	IT-VLAN 10, Network of 192.168.1.0/24
+  1. Admin- VLAN 20, Network of 192.168.2.0/24
+  2. IT-VLAN 10, Network of 192.168.1.0/24
   
 8. Use OSPF as the routing protocol to advertise routes.
 9. All devices in the network are expected to obtain IP address dynamically with them
