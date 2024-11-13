@@ -28,7 +28,7 @@ are part of the considerations during the design and implementation.
 6. Each department is expected to have a printer.
 7. Each department is expected to be in different VLAN.
 8. Use OSPF as the routing protocol to advertise routes.
-9. All devices in the network are expected to obtain IP address dynamically with them
+9. All devices are expected to obtain IP address dynamically with them
 respective router configured as the DHCP server.
 10. All the devices in the network are expected to communicate with each other.
 11. Configure SSH in all the routers for remote login.
