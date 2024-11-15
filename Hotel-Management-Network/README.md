@@ -61,11 +61,11 @@ respective router configured as the DHCP server.
 
 This project implements a robust network infrastructure for Vic Modern Hotel across three floors, each with distinct departments and VLANs. Key configurations include:
 
-#### Routers: Three routers connect each floor with OSPF routing and serial DCE links for inter-router communication.
+### Routers: Three routers connect each floor with OSPF routing and serial DCE links for inter-router communication.
 VLAN Segmentation: Each department is assigned a unique VLAN for secure data flow, aligning with hotel department needs.
-#### DHCP Setup: Dynamic IP allocation per floor, with routers as DHCP servers.
+### DHCP Setup: Dynamic IP allocation per floor, with routers as DHCP servers.
 Wireless Access: Wi-Fi connectivity for laptops and smartphones on each floor.
-#### Remote Access & Security: SSH configured for router management and port security in the IT department, allowing only authorized devices.
+### Remote Access & Security: SSH configured for router management and port security in the IT department, allowing only authorized devices.
 This design ensures isolated departmental networks with full connectivity and secure remote access.
 
 
