@@ -32,6 +32,7 @@ Before you start, make sure you have the following installed:
 ## Project List
 
 1. [Small-Company-Network](https://github.com/hussainahmad402/Networking-Projects/tree/main/Small-Company-Network)
+2. [Hotel-Management-Network](https://github.com/hussainahmad402/Networking-Projects/tree/main/Hotel-Management-Network)
 
 ---
 
