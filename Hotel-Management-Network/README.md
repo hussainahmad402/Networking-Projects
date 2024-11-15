@@ -50,5 +50,9 @@ respective router configured as the DHCP server.
   1. Admin- VLAN 20, Network of 192.168.2.0/24
   2. IT-VLAN 10, Network of 192.168.1.0/24
 
+---
 
+##Network Diagram
+
+![](https://github.com/hussainahmad402/Networking-Projects/blob/main/Pictures/Hotel%20Management%20Network.PNG)
 
