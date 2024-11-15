@@ -52,7 +52,7 @@ respective router configured as the DHCP server.
 
 ---
 
-##Network Diagram
+## Network Diagram
 
 ![](https://github.com/hussainahmad402/Networking-Projects/blob/main/Pictures/Hotel%20Management%20Network.PNG)
 
