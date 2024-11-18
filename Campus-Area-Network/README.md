@@ -18,7 +18,7 @@ Create a network topology with the main components to support the following: <br
 <h2>Main campus:</h2><br>
 <b>Building A:</b><br> Administrative staff in the departments of management, HR and finance. The admin staff PCs are distributed in the building offices and it is expected that they will share some networking equipment (Hint: use of VLANs is expected here). The Faculty of Business is also situated in this building <br>
 <b>Building B:</b><br> Faculty of Engineering and Computing and Faculty of Art and Design<br>
-<b>Building c:</b><br> Students' labs and IT department. The IT department hosts the University Web server and other servers<br>
+<b>Building C:</b><br> Students' labs and IT department. The IT department hosts the University Web server and other servers<br>
 There is also an email server hosted externally on the cloud.
 <b> Smaller campus: </b><br>
 Faculty of Health and Sciences (staff and students' labs are situated on separate floors)
@@ -28,7 +28,7 @@ You will be expected to configure the core devices and few end devices to provid
 1.  Each department/faculty is expected to be on its own separate IP network
 2.  The switches should be configured with appropriate VLANs and security settings
 3.  RIPV2 will be used to provide routing for the routers in the internal network and static routing for the external server.
-4.  The devices in building A will be expected to acquire dynamic IP addresses from -based DHCP server
+4.  The devices in building A will be expected to acquire dynamic IP addresses from a router-based DHCP server
 
 <b> Tasks:</b>
 
