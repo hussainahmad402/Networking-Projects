@@ -8,8 +8,7 @@ Establish a reliable and segmented network across three floors, providing secure
 
 1. [Question Scenerio](#Question-Scenerio)
 2. [Network Diagram](#Network-Diagram)
-3. [Configuration](#Configuration)
-4. [Conclusion](#Conclusion)
+3. [Conclusion](#Conclusion)
 
 ---
 
