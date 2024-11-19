@@ -22,7 +22,7 @@ Create a network topology with the main components to support the following: <br
 There is also an email server hosted externally on the cloud.<br><br>
 <h3> Smaller campus: </h3>
 Faculty of Health and Sciences (staff and students' labs are situated on separate floors)
-<br><br>
+<br>
 You will be expected to configure the core devices and few end devices to provide end-to-end connectivity and access to the internal servers and the external server.
 
 1.  Each department/faculty is expected to be on its own separate IP network
