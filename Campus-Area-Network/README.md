@@ -15,12 +15,12 @@ Albien University is a large university which has two campuses situated 20 miles
 
 ### Requirements:<br>
 Create a network topology with the main components to support the following: <br><br>
-<h3>Main campus:</h3><br>
+<h3>Main campus:</h3>
 <b>Building A:</b><br> Administrative staff in the departments of management, HR and finance. The admin staff PCs are distributed in the building offices and it is expected that they will share some networking equipment (Hint: use of VLANs is expected here). The Faculty of Business is also situated in this building <br>
 <b>Building B:</b><br> Faculty of Engineering and Computing and Faculty of Art and Design<br>
 <b>Building C:</b><br> Students' labs and IT department. The IT department hosts the University Web server and other servers<br>
 There is also an email server hosted externally on the cloud.<br><br>
-<h3> Smaller campus: </h3><br>
+<h3> Smaller campus: </h3>
 Faculty of Health and Sciences (staff and students' labs are situated on separate floors)
 <br><br>
 You will be expected to configure the core devices and few end devices to provide end-to-end connectivity and access to the internal servers and the external server.
