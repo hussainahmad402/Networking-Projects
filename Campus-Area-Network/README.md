@@ -32,7 +32,7 @@ You will be expected to configure the core devices and few end devices to provid
 
 <h4> Tasks:</h4>
 
-1.  Your task is to plan, design, and prototype the network topology for Albion University's network using Cisco Packet Tracer. Formative feedback will be given on this task in week 6.
+1.  Your task is to plan, design, and prototype the network topology for University's network using Cisco Packet Tracer. Formative feedback will be given on this task in week 6.
 2.  Configure in Packet Tracer the network with appropriate settings to achieve the connectivity and functionalities specified in the requirements.
 3.  Produce a report (max 1500 words) including evaluation your proposed network design and critical appraisal on your work. Your evaluation should include performance, scalability, reliability and security of your proposed network.
 
@@ -40,7 +40,7 @@ You will be expected to configure the core devices and few end devices to provid
 
 ## Network Diagram
 
-Below is a network diagram for Albion University's network. The network consists of two campuses,
+Below is a network diagram for University's network. The network consists of two campuses,
 each with its own router and switches. The main campus has three buildings, each with its own switch
 and PCs. The smaller campus has two floors, each with its own switch and PCs.
 ### Main Campus:<br>
@@ -53,6 +53,6 @@ and PCs. The smaller campus has two floors, each with its own switch and PCs.
 
 ## Conclusion
 
-The network design for Albion University effectively meets the requirements for connectivity, scalability, reliability, and security across both campuses. VLAN segmentation ensures efficient traffic management and security, while RIPV2 dynamic routing enables seamless interdepartmental communication. Centralized services, such as the DHCP and internal web server, streamline operations, and security measures like port security and VLAN ACLs protect sensitive data.
+The network design for University effectively meets the requirements for connectivity, scalability, reliability, and security across both campuses. VLAN segmentation ensures efficient traffic management and security, while RIPV2 dynamic routing enables seamless interdepartmental communication. Centralized services, such as the DHCP and internal web server, streamline operations, and security measures like port security and VLAN ACLs protect sensitive data.
 
 This design supports current needs and future growth, providing a robust, scalable, and secure infrastructure to enhance the university's academic and administrative functions
