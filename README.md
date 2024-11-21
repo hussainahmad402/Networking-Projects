@@ -33,6 +33,7 @@ Before you start, make sure you have the following installed:
 
 1. [Small-Company-Network](https://github.com/hussainahmad402/Networking-Projects/tree/main/Small-Company-Network)
 2. [Hotel-Management-Network](https://github.com/hussainahmad402/Networking-Projects/tree/main/Hotel-Management-Network)
+2. [Campus-Area-Network](https://github.com/hussainahmad402/Networking-Projects/tree/main/Campus-Area-Network)
 
 ---
 
