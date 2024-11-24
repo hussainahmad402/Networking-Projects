@@ -1,4 +1,4 @@
-# Network Configuration For Hotel Management
+# Distributed-Network-for-Multi-Branch-Retail-Stores
 
 Establish a reliable and segmented network across three floors, providing secure and efficient communication for each department, with dedicated VLANs to enhance security and manage network traffic.
 
