@@ -21,7 +21,7 @@ Assume we have the following branches in different cities:
 2. Los Angeles (LA) - Branch 1
 3. Chicago (CHI) - Branch 2
 4. Houston (HOU) - Branch 3
-________________________________________
+
 ### IP Addressing Plan:
 We'll use private IP addressing with subnetting to assign different IP ranges to each branch and its respective local devices (POS, staff computers, etc.). A common practice is to use Class C subnets for each branch.
 #### Central Data Center (HQ - New York)
