@@ -97,6 +97,7 @@ We'll use private IP addressing with subnetting to assign different IP ranges to
 
 ## Network Diagram
 
+![](https://github.com/hussainahmad402/Networking-Projects/blob/main/Pictures/Distributed-Network-for-Multi-Branch-Retail-Stores.PNG)
 ---
 
 ## Conclusion
