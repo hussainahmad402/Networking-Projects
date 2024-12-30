@@ -101,3 +101,5 @@ We'll use private IP addressing with subnetting to assign different IP ranges to
 ---
 
 ## Conclusion
+
+This project successfully implements a secure and scalable network design connecting multiple retail branches to a central data center. By utilizing VLANs, OSPF, site-to-site VPNs, and robust security measures, we ensured efficient data management, seamless communication, and network reliability across all locations. The configuration files and topology diagram included in this repository serve as a foundation for similar network setups.
